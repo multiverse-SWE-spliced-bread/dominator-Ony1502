@@ -31,8 +31,6 @@ function onLoudClick(){
 }
 function onSarcClick(){
   console.log('sarc click')
-}
-function onSarcClick(){
   let finalString = '';
   let counter = 0
   for(let i=0; i< p.innerText.length; i++){
